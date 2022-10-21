@@ -1,0 +1,42 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Register
+{% endblock %}
+
+{% block main %}
+
+<form action="/register" method="post" id="form">
+    <div class="mb-3">
+        <input required autocomplete="off" autofocus class="form-control mx-auto w-auto" id="username" name="username"
+            placeholder="Username" type="text">
+    </div>
+    <div class="mb-3">
+        <input required class="form-control mx-auto w-auto" id="password" name="password"
+            placeholder="Password" type="password">
+    </div>
+    <div class="mb-3">
+        <input required class="form-control mx-auto w-auto" id="confirmation" name="confirmation"
+            placeholder="Confirm Password" type="password">
+    </div>
+    <button class="btn btn-dark" type="submit">Register</button>
+</form>
+<h6 id="must_contain">Passwords must contain:</h6>
+<div id="check">
+    <div id="check0">
+        <span><i class="fa-regular fa-circle-check"></i>&#160 between 8-20 characters.</span>
+    </div>
+    <div id="check1">
+        <span><i class="fa-regular fa-circle-check"></i>&#160 At least one number.</span>
+    </div>
+    <div id="check2">
+        <span><i class="fa-regular fa-circle-check"></i>&#160 At least one special charecter.</span>
+    </div>
+    <div id="check3">
+        <span><i class="fa-regular fa-circle-check"></i>&#160 At least one upper case letter.</span>
+    </div>
+    <div id="check4">
+        <span><i class="fa-regular fa-circle-check"></i>&#160 At least one lower case letter.</span>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,34 @@
+/* Size for brand */
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+.left-txt {
+    text-align: left;
+}
+
+.wrapper {
+    width: 200px;
+    margin: auto;
+}
+
+#check {
+    margin: auto;
+    width: 19%;
+    text-align: left;
+}
+
+#must_contain {
+    margin-top: 3vh;
+}
+
+#check0, #check1, #check2, #check3, #check4, #check5 {
+    color: gray;
+}
+
+.img-fluid {
+    width: 100%;
+    object-fit: cover;
+    margin-top: -8vh;
+}
