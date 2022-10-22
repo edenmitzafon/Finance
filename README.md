@@ -109,7 +109,7 @@ pip3 install python-dotenv
 
 ## Roadmap
 #### For this project, I implemented the following:
-#### `register`
+### `register`
 ##### Allows a user to register for an account. The username and the hashed password are submitted via Flask and stored in a SQL database.
 
 ![project-screenshot1]
@@ -123,44 +123,44 @@ pip3 install python-dotenv
   * Password must contain at least 1 lower case letter.
   * Password must contain at least 1 special character.
 
-#### `log in`
+### `log in`
 ##### Allows a user to log into his or her account if they are registered to the site.
 
 ![project-screenshot9]
 
-#### `quote` 
+### `quote` 
 ##### Allows a user to look up the current price of a stock using the stock symbol.
 
 ![project-screenshot2]
 ![project-screenshot3]
 
-#### `buy` 
+### `buy` 
 ##### Enables a user to buy stocks. Purchased stocks are saved to the database.
 
 ![project-screenshot4]
 
-#### `index` 
+### `index` 
 ##### Displays an HTML table summarizing, for the user currently logged in, which stocks the user owns, the numbers of shares owned, the current price of each stock, and the total value of each holding. Also displays the user’s current cash balance along with a grand total.
 
 ![project-screenshot0]
 
-#### `sell` 
+### `sell` 
 ##### Enables a user to sell shares of a stock (that he or she owns). Sold stocks are removed from the database and their cash balance is updated.
 
 ![project-screenshot5]
 ![project-screenshot6]
 
-#### `history`
+### `history`
 ##### Displays an HTML table summarizing the transaction history for the user.
 
 ![project-screenshot7]
 
-#### `change_password`
+### `change_password`
 ##### Allows users to change their passwords folowing the same validation criteria as in register and then hashes the new password and stores it in the SQL database.
 
 ![project-screenshot8]
 
-#### `CSS, HTML & SQL`
+### `CSS, HTML & SQL`
 ##### Queries, writing HTML and styling with CSS and bootstrap.
 
 <p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
