@@ -36,6 +36,7 @@
     <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#roadmap">Roadmap</a></li>
     <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#license">License</a></li>
     <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -147,6 +148,18 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Project Link: [https://github.com/edenmitzafon/Finance](https://github.com/edenmitzafon/Finance)
 
 <p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
+
+## Acknowledgments
+
+* [REDME Template](https://github.com/othneildrew/Best-README-Template)
+* [Img Shields](https://shields.io)
+* [Badges](https://github.com/Ileriayo/markdown-badges)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+
+<p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
+
 
 
 [project-screenshot0]: https://github.com/edenmitzafon/Finance/blob/main/images/project.png
