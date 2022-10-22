@@ -109,6 +109,7 @@ pip3 install cs50
 
 1. **`register` - Allows a user to register for an account. The username and the hashed password are submitted via Flask and stored in a SQL database.
   ![project-screenshot1]
+  ![project-screenshot10]
 The password is validated (both in Python and in Javascript) against several criteria including:**
 
     * Password must contain between 8-20 characters.
@@ -167,7 +168,7 @@ Project Link: [https://github.com/edenmitzafon/Finance](https://github.com/edenm
 
 
 [project-screenshot0]: https://github.com/edenmitzafon/Finance/blob/main/images/project.png
-[project-screenshot1]: https://github.com/edenmitzafon/Finance/blob/main/images/regisger.png
+[project-screenshot1]: https://github.com/edenmitzafon/Finance/blob/main/images/register.png
 [project-screenshot2]: https://github.com/edenmitzafon/Finance/blob/main/images/quote.png
 [project-screenshot3]: https://github.com/edenmitzafon/Finance/blob/main/images/quote2.png
 [project-screenshot4]: https://github.com/edenmitzafon/Finance/blob/main/images/buy.png
@@ -176,6 +177,7 @@ Project Link: [https://github.com/edenmitzafon/Finance](https://github.com/edenm
 [project-screenshot7]: https://github.com/edenmitzafon/Finance/blob/main/images/history.png
 [project-screenshot8]: https://github.com/edenmitzafon/Finance/blob/main/images/password.png
 [project-screenshot9]: https://github.com/edenmitzafon/Finance/blob/main/images/login.png
+[project-screenshot10]: https://github.com/edenmitzafon/Finance/blob/main/images/register2.png
 
 [javascript.com]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [javascript-url]: https://www.javascript.com/
