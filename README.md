@@ -8,7 +8,7 @@
 <h2 align="center">FINANCE</h2>
 
   <p align="center">
-    A finanבial app that allows you to trade stocks
+    A financial app that allows you to trade stocks
     <br />
     <a href="https://github.com/edenmitzafon/Finance.git"><strong>Explore the docs »</strong></a>
   </p>
