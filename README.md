@@ -115,7 +115,7 @@ Project Link: [https://github.com/edenmitzafon/Finance](https://github.com/edenm
 [project-screenshot1]: images\regisger.png
 [project-screenshot2]: images\quote.png
 [project-screenshot3]: images\quote2.png
-[project-screenshot4]: images\buy.png
+[project-screenshot4]: https://github.com/edenmitzafon/Finance/blob/main/images/buy.png
 [project-screenshot5]: images\sell.png
 [project-screenshot6]: images\sell2.png
 [project-screenshot7]: images\history.png
