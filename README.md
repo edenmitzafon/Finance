@@ -75,7 +75,7 @@ pip3 install cs50
 ## Roadmap
 #### For this project, I implemented the following:
 
-1. `register` - Allows a user to register for an account and log in. The username and the hashed password are submitted via Flask and stored in a SQL database.
+1. `register` - Allows a user to register for an account. The username and the hashed password are submitted via Flask and stored in a SQL database.
 ![project-screenshot1]
 The password is validated against several criteria including:
 
@@ -83,6 +83,8 @@ The password is validated against several criteria including:
     * Password must contain at least 1 number.
     * Password must contain at least 1 uppercase letter.
     * Password must contain at least 1 special character.
+1. `log in` - Allows a user to log into his or her account if they are registered to the site.
+![project-screenshot9]
 1. `quote` - Allows a user to look up the current price of a stock using the stock symbol.
 ![project-screenshot2]
 ![project-screenshot3]
@@ -111,15 +113,16 @@ Project Link: [https://github.com/edenmitzafon/Finance](https://github.com/edenm
 
 
 
-[project-screenshot0]: images\project.png
-[project-screenshot1]: images\regisger.png
-[project-screenshot2]: images\quote.png
-[project-screenshot3]: images\quote2.png
+[project-screenshot0]: https://github.com/edenmitzafon/Finance/blob/main/images/project.png
+[project-screenshot1]: https://github.com/edenmitzafon/Finance/blob/main/images/regisger.png
+[project-screenshot2]: https://github.com/edenmitzafon/Finance/blob/main/images/quote.png
+[project-screenshot3]: https://github.com/edenmitzafon/Finance/blob/main/images/quote2.png
 [project-screenshot4]: https://github.com/edenmitzafon/Finance/blob/main/images/buy.png
-[project-screenshot5]: images\sell.png
-[project-screenshot6]: images\sell2.png
-[project-screenshot7]: images\history.png
-[project-screenshot8]: images\password.png
+[project-screenshot5]: https://github.com/edenmitzafon/Finance/blob/main/images/sell.png
+[project-screenshot6]: https://github.com/edenmitzafon/Finance/blob/main/images/sell2.png
+[project-screenshot7]: https://github.com/edenmitzafon/Finance/blob/main/images/history.png
+[project-screenshot8]: https://github.com/edenmitzafon/Finance/blob/main/images/password.png
+![project-screenshot9]: https://github.com/edenmitzafon/Finance/blob/main/images/login.png
 
 [linkedin.com]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/eden-mitzafon-1a2657254/
