@@ -17,11 +17,35 @@
 #### **Note:** this project was completed as part of Harvard's CS50 course on edX. Project requierments can be found [here](https://cs50.harvard.edu/x/2022/psets/9/).
 <br>
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#prerequisites">Prerequisites</a></li>
+        <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#roadmap">Roadmap</a></li>
+    <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#license">License</a></li>
+    <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#contact">Contact</a></li>
+  </ol>
+</details>
+
 ## About The Project
 ![project-screenshot0]
 
 A web app via which you can manage portfolios of stocks. Not only will this tool allow you to check real stocks’ actual prices and portfolios’ values, it will also let you buy (okay, “buy”) and sell (okay, “sell”) stocks by querying [IEX](https://iexcloud.io/) api for stocks’ prices.
 <br>
+
+<p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
 
 ### Built With
 
@@ -30,6 +54,8 @@ A web app via which you can manage portfolios of stocks. Not only will this tool
 [![css][css.com]][css-url]  
 [![sqlite][sqlite.com]][sqlite-url]  
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]  
+
+<p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
 
 ## Getting Started
 To get a local copy up and running follow these simple steps:
@@ -50,27 +76,31 @@ pip3 install python-dotenv
 ```sh
 pip3 install cs50
 ```
+<p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
+
 ### Installation
 
 1. Get a free API Key at [IEX](https://iexcloud.io/)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/edenmitzafon/Finance.git
    ```
-3. Install pip3 packages
+1. Install pip3 packages
    ```sh
    pip3 install
    ```
-4. Enter your API key in `.env`
+1. Enter your API key in `.env`
    ```sh
    API_KEY='value'
    ```
    where `value` is that (pasted) key, without any space immediately before or after the =.
-5. Start Flask’s built-in web server (within `finance/`):
+1. Start Flask’s built-in web server (within `finance/`):
     ```
     python -m flask run
     ```
-6. Stop the app by using `Ctrl+C` in the terminal
+1. Stop the app by using `Ctrl+C` in the terminal
+
+<p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
 
 ## Roadmap
 #### For this project, I implemented the following:
@@ -101,9 +131,14 @@ The password is validated against several criteria including:
 ![project-screenshot8]
 1. `CSS, HTML & SQL` - Queries, writing HTML and styling with CSS and bootstrap.
 
+<p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
+
 
 ## Contact
 
@@ -111,6 +146,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Project Link: [https://github.com/edenmitzafon/Finance](https://github.com/edenmitzafon/Finance)
 
+<p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
 
 
 [project-screenshot0]: https://github.com/edenmitzafon/Finance/blob/main/images/project.png
@@ -123,6 +159,7 @@ Project Link: [https://github.com/edenmitzafon/Finance](https://github.com/edenm
 [project-screenshot7]: https://github.com/edenmitzafon/Finance/blob/main/images/history.png
 [project-screenshot8]: https://github.com/edenmitzafon/Finance/blob/main/images/password.png
 [project-screenshot9]: https://github.com/edenmitzafon/Finance/blob/main/images/login.png
+
 
 [linkedin.com]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/eden-mitzafon-1a2657254/
