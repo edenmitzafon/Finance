@@ -54,7 +54,8 @@ A web app via which you can manage portfolios of stocks. Not only will this tool
 [![html][html.com]][html-url]  
 [![css][css.com]][css-url]  
 [![sqlite][sqlite.com]][sqlite-url]  
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]  
+[![Bootstrap][Bootstrap.com]][Bootstrap-url] 
+[![javascript][javascript.com]][javascript-url] 
 
 <p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
 
@@ -108,7 +109,7 @@ pip3 install cs50
 
 1. **`register` - Allows a user to register for an account. The username and the hashed password are submitted via Flask and stored in a SQL database.
   ![project-screenshot1]
-The password is validated against several criteria including:**
+The password is validated (both in Python and in Javascript) against several criteria including:**
 
     * Password must contain between 8-20 characters.
     * Password must contain at least 1 number.
@@ -176,7 +177,8 @@ Project Link: [https://github.com/edenmitzafon/Finance](https://github.com/edenm
 [project-screenshot8]: https://github.com/edenmitzafon/Finance/blob/main/images/password.png
 [project-screenshot9]: https://github.com/edenmitzafon/Finance/blob/main/images/login.png
 
-
+[javascript.com]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[javascript-url]: https://www.javascript.com/
 [linkedin.com]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/eden-mitzafon-1a2657254/
 [sqlite.com]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
