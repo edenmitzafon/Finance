@@ -157,6 +157,8 @@ Project Link: [https://github.com/edenmitzafon/Finance](https://github.com/edenm
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [GitHub Guide for Writing in Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
 <p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
 
