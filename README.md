@@ -124,7 +124,7 @@ The password is validated (both in Python and in Javascript) against several cri
 ![project-screenshot3]
 1. **`buy` - Enables a user to buy stocks. Purchased stocks are saved to the database.**
 ![project-screenshot4]
-1. **`index` - Displays an HTML table summarizing, for the user currently logged in, which stocks the user owns, the numbers of shares owned, the current price of each stock, and the total value of each holding. Also display the user’s current cash balance along with a grand total.**
+1. **`index` - Displays an HTML table summarizing, for the user currently logged in, which stocks the user owns, the numbers of shares owned, the current price of each stock, and the total value of each holding. Also displays the user’s current cash balance along with a grand total.**
 ![project-screenshot0]
 1. **`sell` -  Enables a user to sell shares of a stock (that he or she owns). Sold stocks are removed from the database and their cash balance is updated.**
 ![project-screenshot5]
