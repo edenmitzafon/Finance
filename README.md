@@ -114,8 +114,8 @@ The password is validated (both in Python and in Javascript) against several cri
 
     * Password must contain between 8-20 characters.
     * Password must contain at least 1 number.
-    * Password must contain at least 1 uppercase letter.
-    * Password must contain at least 1 lowercase letter.
+    * Password must contain at least 1 upper case letter.
+    * Password must contain at least 1 lower case letter.
     * Password must contain at least 1 special character.
 1. **`log in` - Allows a user to log into his or her account if they are registered to the site.**
 ![project-screenshot9]
