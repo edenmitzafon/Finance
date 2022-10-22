@@ -106,9 +106,7 @@ pip3 install cs50
 #### For this project, I implemented the following:
 
 1. `register` - Allows a user to register for an account. The username and the hashed password are submitted via Flask and stored in a SQL database.
-<br>
-![project-screenshot1]
-<br>
+  ![project-screenshot1]
 The password is validated against several criteria including:
 
     * Password must contain between 8-20 characters.
