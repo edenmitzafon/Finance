@@ -60,7 +60,7 @@ A web app via which you can manage portfolios of stocks. Not only will this tool
 <p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
 
 ## Getting Started
-To get a local copy up and running follow these simple steps:
+To get a local copy up and running by following these simple steps:
 ### Prerequisites
 
 ```sh
