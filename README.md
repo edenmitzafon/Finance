@@ -63,20 +63,22 @@ A web app via which you can manage portfolios of stocks. Not only will this tool
 To get a local copy up and running by following these simple steps:
 ### Prerequisites
 
+The necessary python packages are listed in requirements.txt and are installed with
+
 ```sh
-pip3 install flask
+pip3 install --user -r requirements.txt
 ```
+You can also install them one by one with
 ```sh
-pip3 install Werkzeug
+pip3 install <name_of_package>
 ```
-```sh
-pip3 install flask_session
-```
-```sh
-pip3 install python-dotenv
-```
+The CS50 python library can be installed with
 ```sh
 pip3 install cs50
+```
+you will also need to install dotnev
+```sh
+pip3 install python-dotenv
 ```
 <p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
 
@@ -98,7 +100,8 @@ pip3 install cs50
    where `value` is that (pasted) key, without any space immediately before or after the =.
 1. Start Flask’s built-in web server (within `finance/`):
     ```
-    python -m flask run
+    export FLASK_APP=application.py
+    flask run
     ```
 1. Stop the app by using `Ctrl+C` in the terminal
 
