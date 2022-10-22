@@ -108,11 +108,14 @@ pip3 install cs50
 #### For this project, I implemented the following:
 #### `register`
 ##### Allows a user to register for an account. The username and the hashed password are submitted via Flask and stored in a SQL database.
+
 <br>
 ![project-screenshot1]
 ![project-screenshot10]
 <br>
-The password is validated (both in Python and in Javascript) against several criteria including:
+
+##### The password is validated (both in Python and in Javascript) against several criteria including:
+
   * Password must contain between 8-20 characters.
   * Password must contain at least 1 number.
   * Password must contain at least 1 upper case letter.
@@ -122,12 +125,14 @@ The password is validated (both in Python and in Javascript) against several cri
 
 #### `log in`
 ##### Allows a user to log into his or her account if they are registered to the site.
+
 <br>
 ![project-screenshot9]
 <br>
 
 #### `quote` 
 ##### Allows a user to look up the current price of a stock using the stock symbol.
+
 <br>
 ![project-screenshot2]
 ![project-screenshot3]
@@ -135,18 +140,21 @@ The password is validated (both in Python and in Javascript) against several cri
 
 #### `buy` 
 ##### Enables a user to buy stocks. Purchased stocks are saved to the database.
+
 <br>
 ![project-screenshot4]
 <br>
 
 #### `index` 
 ##### Displays an HTML table summarizing, for the user currently logged in, which stocks the user owns, the numbers of shares owned, the current price of each stock, and the total value of each holding. Also displays the user’s current cash balance along with a grand total.
+
 <br>
 ![project-screenshot0]
 <br>
 
 #### `sell` 
 ##### Enables a user to sell shares of a stock (that he or she owns). Sold stocks are removed from the database and their cash balance is updated.
+
 <br>
 ![project-screenshot5]
 ![project-screenshot6]
@@ -154,12 +162,14 @@ The password is validated (both in Python and in Javascript) against several cri
 
 #### `history`
 ##### Displays an HTML table summarizing the transaction history for the user.
+
 <br>
 ![project-screenshot7]
 <br>
 
 #### `change_password`
 ##### Allows users to change their passwords folowing the same validation criteria as in register and then hashing the new password and storing it in the SQL database.
+
 <br>
 ![project-screenshot8]
 <br>
