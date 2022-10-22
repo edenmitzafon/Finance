@@ -36,7 +36,7 @@
     <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#roadmap">Roadmap</a></li>
     <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#license">License</a></li>
     <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
