@@ -122,7 +122,7 @@ Project Link: [https://github.com/edenmitzafon/Finance](https://github.com/edenm
 [project-screenshot6]: https://github.com/edenmitzafon/Finance/blob/main/images/sell2.png
 [project-screenshot7]: https://github.com/edenmitzafon/Finance/blob/main/images/history.png
 [project-screenshot8]: https://github.com/edenmitzafon/Finance/blob/main/images/password.png
-![project-screenshot9]: https://github.com/edenmitzafon/Finance/blob/main/images/login.png
+[project-screenshot9]: https://github.com/edenmitzafon/Finance/blob/main/images/login.png
 
 [linkedin.com]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/eden-mitzafon-1a2657254/
