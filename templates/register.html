@@ -13,7 +13,7 @@ Register
     </div>
     <div class="mb-3">
         <input required class="form-control mx-auto w-auto" id="password" name="password"
-            placeholder="Password" type="password">
+            placeholder="Password" type="password" oninput="check()">
     </div>
     <div class="mb-3">
         <input required class="form-control mx-auto w-auto" id="confirmation" name="confirmation"
@@ -21,21 +21,24 @@ Register
     </div>
     <button class="btn btn-dark" type="submit">Register</button>
 </form>
-<h6 id="must_contain">Passwords must contain:</h6>
+<h6 id="must_contain"> Passwords must contain: </h6>
 <div id="check">
     <div id="check0">
-        <span><i class="fa-regular fa-circle-check"></i>&#160 between 8-20 characters.</span>
+        <span><i class="fa-regular fa-circle-check"></i>&#160 At least 8 characters.</span>
     </div>
     <div id="check1">
-        <span><i class="fa-regular fa-circle-check"></i>&#160 At least one number.</span>
+        <span><i class="fa-regular fa-circle-check"></i>&#160 Less than 20 characters.</span>
     </div>
     <div id="check2">
-        <span><i class="fa-regular fa-circle-check"></i>&#160 At least one special charecter.</span>
+        <span><i class="fa-regular fa-circle-check"></i>&#160 At least one number.</span>
     </div>
     <div id="check3">
-        <span><i class="fa-regular fa-circle-check"></i>&#160 At least one upper case letter.</span>
+        <span><i class="fa-regular fa-circle-check"></i>&#160 At least one special charecter.</span>
     </div>
     <div id="check4">
+        <span><i class="fa-regular fa-circle-check"></i>&#160 At least one upper case letter.</span>
+    </div>
+    <div id="check5">
         <span><i class="fa-regular fa-circle-check"></i>&#160 At least one lower case letter.</span>
     </div>
 </div>
