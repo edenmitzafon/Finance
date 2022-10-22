@@ -114,23 +114,23 @@ The password is validated against several criteria including:**
     * Password must contain at least 1 number.
     * Password must contain at least 1 uppercase letter.
     * Password must contain at least 1 special character.
-1. **`log in` - Allows a user to log into his or her account if they are registered to the site.
+1. **`log in` - Allows a user to log into his or her account if they are registered to the site.**
 ![project-screenshot9]
-1. `quote` - Allows a user to look up the current price of a stock using the stock symbol.
+1. **`quote` - Allows a user to look up the current price of a stock using the stock symbol.**
 ![project-screenshot2]
 ![project-screenshot3]
-1. `buy` - Enables a user to buy stocks. Purchased stocks are saved to the database.
+1. **`buy` - Enables a user to buy stocks. Purchased stocks are saved to the database.**
 ![project-screenshot4]
-1. `index` - Displays an HTML table summarizing, for the user currently logged in, which stocks the user owns, the numbers of shares owned, the current price of each stock, and the total value of each holding. Also display the user’s current cash balance along with a grand total.
+1. **`index` - Displays an HTML table summarizing, for the user currently logged in, which stocks the user owns, the numbers of shares owned, the current price of each stock, and the total value of each holding. Also display the user’s current cash balance along with a grand total.**
 ![project-screenshot0]
-1. `sell` -  Enables a user to sell shares of a stock (that he or she owns). Sold stocks are removed from the database and their cash balance is updated.
+1. **`sell` -  Enables a user to sell shares of a stock (that he or she owns). Sold stocks are removed from the database and their cash balance is updated.**
 ![project-screenshot5]
 ![project-screenshot6]
-1. `history` - Displays an HTML table summarizing the transaction history for the user.
+1. **`history` - Displays an HTML table summarizing the transaction history for the user.**
 ![project-screenshot7]
-1. `change_password` - Allows users to change their passwords folowing the same validation criteria as in register and then hashing the new password and storing it in the SQL database.
+1. **`change_password` - Allows users to change their passwords folowing the same validation criteria as in register and then hashing the new password and storing it in the SQL database.**
 ![project-screenshot8]
-1. `CSS, HTML & SQL` - Queries, writing HTML and styling with CSS and bootstrap.**
+1. **`CSS, HTML & SQL` - Queries, writing HTML and styling with CSS and bootstrap.**
 
 <p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
 
