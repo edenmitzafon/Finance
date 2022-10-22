@@ -106,15 +106,15 @@ pip3 install cs50
 ## Roadmap
 #### For this project, I implemented the following:
 
-1. `register` - Allows a user to register for an account. The username and the hashed password are submitted via Flask and stored in a SQL database.
+1. **`register` - Allows a user to register for an account. The username and the hashed password are submitted via Flask and stored in a SQL database.
   ![project-screenshot1]
-The password is validated against several criteria including:
+The password is validated against several criteria including:**
 
     * Password must contain between 8-20 characters.
     * Password must contain at least 1 number.
     * Password must contain at least 1 uppercase letter.
     * Password must contain at least 1 special character.
-1. `log in` - Allows a user to log into his or her account if they are registered to the site.
+1. **`log in` - Allows a user to log into his or her account if they are registered to the site.
 ![project-screenshot9]
 1. `quote` - Allows a user to look up the current price of a stock using the stock symbol.
 ![project-screenshot2]
@@ -130,7 +130,7 @@ The password is validated against several criteria including:
 ![project-screenshot7]
 1. `change_password` - Allows users to change their passwords folowing the same validation criteria as in register and then hashing the new password and storing it in the SQL database.
 ![project-screenshot8]
-1. `CSS, HTML & SQL` - Queries, writing HTML and styling with CSS and bootstrap.
+1. `CSS, HTML & SQL` - Queries, writing HTML and styling with CSS and bootstrap.**
 
 <p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
 
