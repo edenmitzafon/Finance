@@ -153,7 +153,7 @@ pip3 install cs50
 ![project-screenshot7]
 
 #### `change_password`
-##### Allows users to change their passwords folowing the same validation criteria as in register and then hashing the new password and storing it in the SQL database.
+##### Allows users to change their passwords folowing the same validation criteria as in register and then hashes the new password and stores it in the SQL database.
 
 ![project-screenshot8]
 
