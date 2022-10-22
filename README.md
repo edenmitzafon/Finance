@@ -54,7 +54,7 @@ A web app via which you can manage portfolios of stocks. Not only will this tool
 [![html][html.com]][html-url]  
 [![css][css.com]][css-url]  
 [![sqlite][sqlite.com]][sqlite-url]  
-[![Bootstrap][Bootstrap.com]][Bootstrap-url] 
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]   
 [![javascript][javascript.com]][javascript-url] 
 
 <p align="right">(<a href="https://github.com/edenmitzafon/Finance/blob/main/README.md#finance">back to top</a>)</p>
